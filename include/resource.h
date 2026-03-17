@@ -1,0 +1,14 @@
+#define IDI_APP_ICON        101
+
+#define IDI_ICON_COLOR      201
+#define IDI_ICON_SCREEN     202
+#define IDI_ICON_POSITION   203
+#define IDI_ICON_SIZE       204
+#define IDI_ICON_OPACITE    205
+#define IDI_ICON_IMAGE      206
+#define IDI_ICON_LOVE       207
+
+#define IDI_ICON_CORNER_TL  301
+#define IDI_ICON_CORNER_TR  302
+#define IDI_ICON_CORNER_BL  303
+#define IDI_ICON_CORNER_BR  304
